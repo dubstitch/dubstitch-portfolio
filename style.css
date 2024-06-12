@@ -83,6 +83,11 @@ body {
     justify-content: space-evenly; 
 } 
 
+/* Homepage Site Selection Cards */
+.card {
+	height: 100vh;
+}
+
 /* About section styles */
 .about { 
     display: flex; 
